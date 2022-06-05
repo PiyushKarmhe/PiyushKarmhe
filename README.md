@@ -1,4 +1,4 @@
-👋 Hello everyone, I m Piyush Karmhe, CSE Student
+<b>👋 Hello everyone, I m Piyush Karmhe, CSE Student</b>
 
 <!--
 **PiyushKarmhe/PiyushKarmhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
