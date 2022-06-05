@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushkarmhe&label=Profile%20views&color=0e75b6&style=flat" alt="piyushkarmhe" /> </p>
 
-<p align="left" style="display:flex; justify-content: space-between;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushkarmhe&theme=darkhub&row=2&column=3" alt="piyushkarmhe" /></a> </p>
+<p align="left" style="display:flex; justify-content: space-between;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushkarmhe&theme=darkhub&row=3&column=3" alt="piyushkarmhe" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development, Block-Chain, Machine Learning and Deep Learning**
 
