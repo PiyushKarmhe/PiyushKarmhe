@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Piyush Karmhe</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate soul from India</h3>
+<h3 align="center">Who's insterested in building projects and curate solutions to solve real world problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushkarmhe&label=Profile%20views&color=0e75b6&style=flat" alt="piyushkarmhe" /> </p>
 
