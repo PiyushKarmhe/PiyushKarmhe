@@ -1,5 +1,4 @@
 <h1><b>👋 Hello everyone, I m Piyush Karmhe, CSE Student</b></h1>
-
 <!--
 **PiyushKarmhe/PiyushKarmhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- <h3>💬 Ask me about ...</h3>
+<ul>
+  <li>hi</li>
+<ul> 
