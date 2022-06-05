@@ -1,6 +1,7 @@
 <h1><b>👋 Hello everyone, I'm Piyush Karmhe</b></h1>
 
-☺️ About me 
+<h3>☺️ About me</h3>
+I am an under graduate CSE student with specialization in AI and ML. Who's insterested in exploring this vast feild of computer science and build project and curate solutions to solve real world problems.
 <!--
 **PiyushKarmhe/PiyushKarmhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
