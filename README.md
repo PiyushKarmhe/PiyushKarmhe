@@ -6,6 +6,16 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushkarmhe&theme=darkhub&row=1&column=7&margin-w=15&no-frame=true&margin-h=15" alt="piyushkarmhe" /></a> </p>
 
+<h3>😄 Pronouns: He/Him</h3>
+
+<h3>🌱 I’m currently learning : </h3>
+
+<ul>
+  <li>Web Development</li>
+  <li>Block-chain</li>
+  <li>Machine Learning and Deep Learning</li>
+</ul>
+
 - 🌱 I’m currently learning **Web Development, Block-Chain, Machine Learning and Deep Learning**
 
 - 📫 How to reach me **karmhepiyush@gmail.com**
@@ -38,21 +48,13 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=piyushkarmhe&theme=jolly" alt="piyushkarmhe" /></p> -->
 
 
-<!-- <h1><b>👋 Hello everyone, I'm Piyush Karmhe</b></h1>
-
+<!-- <h1><b>👋 Hello everyone, I'm Piyush Karmhe</b></h1> -->
+<!-- 
 <h3>☺️ About me :</h3>
 
-I am an under graduate CSE student with specialization in AI and ML. Who's insterested in exploring this vast feild of computer science and build project and curate solutions to solve real world problems.
+I am an under graduate CSE student with specialization in AI and ML. Who's insterested in exploring this vast feild of computer science and build project and curate solutions to solve real world problems. -->
 
-<h3>😄 Pronouns: He/Him</h3>
 
-<h3>🌱 I’m currently learning : </h3>
-
-<ul>
-  <li>Web Development</li>
-  <li>Block-chain</li>
-  <li>Machine Learning and Deep Learning</li>
-</ul> -->
 <!--
 **PiyushKarmhe/PiyushKarmhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
