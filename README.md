@@ -16,9 +16,7 @@
   <li>Machine Learning and Deep Learning</li>
 </ul>
 
-- 🌱 I’m currently learning **Web Development, Block-Chain, Machine Learning and Deep Learning**
-
-- 📫 How to reach me **karmhepiyush@gmail.com**
+<h3>📫 How to reach me :</h3> **karmhepiyush@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
