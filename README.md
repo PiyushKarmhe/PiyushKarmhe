@@ -41,6 +41,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=piyushkarmhe&theme=synthwave" alt="piyushkarmhe" /></p>
 
+<h3>🐍 See a snake eat all my commits graph...</h3>
+
+![snake gif](https://github.com/piyushkarmhe/piyushkarmhe/blob/output/github-contribution-grid-snake.gif)
+
 
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=piyushkarmhe&theme=jolly" alt="piyushkarmhe" /></p> -->
