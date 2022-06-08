@@ -30,6 +30,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushkarmhe&" alt="piyushkarmhe" /></p>
 
+<p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=piyushkarmhe](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&locale=en&layout=default&theme=jolly&langs_count=8" alt="piyushkarmhe" /></p>
+
 
 <!-- <h1><b>👋 Hello everyone, I'm Piyush Karmhe</b></h1>
 
