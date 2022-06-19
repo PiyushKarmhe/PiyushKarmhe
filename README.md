@@ -12,11 +12,11 @@
 <h3>😄 About me: </h3>
 <p align="justify">
   
-    Hi👋, I'm Piyush Karmhe. A passionate soul from India. Currently a student, doing B.Tech in Computer Science Engineering with Spinalization in Artificial           Intelligence and Machine Learning. 
+    Hi👋, I'm Piyush Karmhe. A passionate soul from India. Currently a student, doing B.Tech in Computer Science Engineering with Spinalization in Artificial Intelligence and Machine Learning. 
 
-    I am currently an intermediate in Data Science / Analytics working with different kinds of datasets like Walmart, Uber, IMDB, HR and building prediction models     using ML and DL algorithms, doing Sentimental analysis of Twitter tweets. 
+    I am currently an intermediate in Data Science / Analytics working with different kinds of datasets like Walmart, Uber, IMDB, HR and building prediction models using ML and DL algorithms, doing Sentimental analysis of Twitter tweets. 
 
-    I'm also an intermediate in web development ,learning MERN stack and a beginner in Blockchain / web3 development building Smart Contracts and deploying and         using them using web3.js and ether.js . 
+    I'm also an intermediate in web development ,learning MERN stack and a beginner in Blockchain / web3 development building Smart Contracts and deploying and using them using web3.js and ether.js . 
 
     I am very much interested in building projects and curate solutions to solve real world problems. 
 
