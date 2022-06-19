@@ -10,7 +10,7 @@
 <br>
 
 <h3>😄 About me: </h3>
-<p>
+<p align="justify">
   
 Hi👋, I'm Piyush Karmhe. A passionate soul from India. Currently a student, doing B.Tech in Computer Science Engineering with Spinalization in Artificial Intelligence and Machine Learning. 
 
