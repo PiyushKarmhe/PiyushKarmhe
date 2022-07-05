@@ -65,6 +65,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=piyushkarmhe&theme=synthwave" alt="piyushkarmhe" /></p>
 <br>
 <br>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="piyushkarmhe" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/piyushkarmhe?trk=profile-badge">Piyush K.</a></div>
+<br>
+<br>
 <h3>🐍 See a snake eat all my commits graph...</h3>
 
 ![snake gif](https://github.com/piyushkarmhe/piyushkarmhe/blob/output/github-contribution-grid-snake.gif)
