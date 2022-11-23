@@ -14,7 +14,7 @@
 <h4>  
   
     Hi👋, I'm Piyush Karmhe. A passionate soul from India. Currently a student, doing B.Tech in Computer Science Engineering
-    with Spinalization in Artificial Intelligence and Machine Learning.
+    with Specialization in Artificial Intelligence and Machine Learning.
 
     I am currently an intermediate in Data Science / Analytics working with different kinds of datasets like Walmart, Uber, 
     IMDB, HR and building prediction models     using ML and DL algorithms, doing Sentimental analysis of Twitter tweets. 
